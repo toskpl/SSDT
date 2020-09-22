@@ -18,10 +18,8 @@ Use:
 
 5. Publish.[**link**]()
 
-6. Add new obcjets :view vPurchaseOrderLines.[**link**]()
+6. Add new obcjets :view vPurchaseOrderLines and generation scripts.[**link**]()
 
-7. Generation Scrpit.[**link**]()
+7. Add new column [Purchasing].[PurchaseOrderLines] column name [Twitter].[**link**]()
 
-8. Add new column [Purchasing].[PurchaseOrderLines] column name [Twitter].[**link**]()
-
-9. Generation Scrpit / Publish.[**link**]()
+8. Generation Scrpit / Publish.[**link**]()
