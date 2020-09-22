@@ -1,0 +1,56 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       [Purchasing].[PurchaseOrderLines]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The column [Purchasing].[PurchaseOrderLines].[Twitter] on table [Purchasing].[PurchaseOrderLines] must be added, but the
+         column has no default value and does not allow NULL values. If the table contains data, the ALTER script will not work.
+         To avoid this issue you must either: add a default value to the column, mark it as allowing NULL values, or enable the
+         generation of smart-defaults as a deployment option.
+
+** User actions
+     Table rebuild
+       [Purchasing].[PurchaseOrderLines] (Table)
+     Alter
+       [Purchasing].[vPurchaseOrderLines] (View)
+
+** Supporting actions
+     Drop
+       [Purchasing].[DF_Purchasing_PurchaseOrderLines_PurchaseOrderLineID] (Default Constraint)
+       [Purchasing].[DF_Purchasing_PurchaseOrderLines_LastEditedWhen] (Default Constraint)
+       [Purchasing].[FK_Purchasing_PurchaseOrderLines_Application_People] (Foreign Key)
+       [Purchasing].[FK_Purchasing_PurchaseOrderLines_PackageTypeID_Warehouse_PackageTypes] (Foreign Key)
+       [Purchasing].[FK_Purchasing_PurchaseOrderLines_PurchaseOrderID_Purchasing_PurchaseOrders] (Foreign Key)
+       [Purchasing].[FK_Purchasing_PurchaseOrderLines_StockItemID_Warehouse_StockItems] (Foreign Key)
+     Create
+       [Purchasing].[PurchaseOrderLines].[FK_Purchasing_PurchaseOrderLines_PurchaseOrderID] (Index)
+       [Purchasing].[PurchaseOrderLines].[FK_Purchasing_PurchaseOrderLines_StockItemID] (Index)
+       [Purchasing].[PurchaseOrderLines].[FK_Purchasing_PurchaseOrderLines_PackageTypeID] (Index)
+       [Purchasing].[PurchaseOrderLines].[IX_Purchasing_PurchaseOrderLines_Perf_20160301_4] (Index)
+       [Purchasing].[FK_Purchasing_PurchaseOrderLines_Application_People] (Foreign Key)
+       [Purchasing].[FK_Purchasing_PurchaseOrderLines_PackageTypeID_Warehouse_PackageTypes] (Foreign Key)
+       [Purchasing].[FK_Purchasing_PurchaseOrderLines_PurchaseOrderID_Purchasing_PurchaseOrders] (Foreign Key)
+       [Purchasing].[FK_Purchasing_PurchaseOrderLines_StockItemID_Warehouse_StockItems] (Foreign Key)
+       [Purchasing].[PurchaseOrderLines].[Description] (Extended Property)
+       [Purchasing].[PurchaseOrderLines].[PurchaseOrderLineID].[Description] (Extended Property)
+       [Purchasing].[PurchaseOrderLines].[PurchaseOrderID].[Description] (Extended Property)
+       [Purchasing].[PurchaseOrderLines].[StockItemID].[Description] (Extended Property)
+       [Purchasing].[PurchaseOrderLines].[OrderedOuters].[Description] (Extended Property)
+       [Purchasing].[PurchaseOrderLines].[Description].[Description] (Extended Property)
+       [Purchasing].[PurchaseOrderLines].[ReceivedOuters].[Description] (Extended Property)
+       [Purchasing].[PurchaseOrderLines].[PackageTypeID].[Description] (Extended Property)
+       [Purchasing].[PurchaseOrderLines].[ExpectedUnitPricePerOuter].[Description] (Extended Property)
+       [Purchasing].[PurchaseOrderLines].[LastReceiptDate].[Description] (Extended Property)
+       [Purchasing].[PurchaseOrderLines].[IsOrderLineFinalized].[Description] (Extended Property)
+       [Purchasing].[PurchaseOrderLines].[FK_Purchasing_PurchaseOrderLines_PurchaseOrderID].[Description] (Extended Property)
+       [Purchasing].[PurchaseOrderLines].[FK_Purchasing_PurchaseOrderLines_StockItemID].[Description] (Extended Property)
+       [Purchasing].[PurchaseOrderLines].[FK_Purchasing_PurchaseOrderLines_PackageTypeID].[Description] (Extended Property)
+       [Purchasing].[PurchaseOrderLines].[IX_Purchasing_PurchaseOrderLines_Perf_20160301_4].[Description] (Extended Property)
+     Refresh
+       [Integration].[GetPurchaseUpdates] (Procedure)
+
+The column [Purchasing].[PurchaseOrderLines].[Twitter] on table [Purchasing].[PurchaseOrderLines] must be added, but the column has no default value and does not allow NULL values. If the table contains data, the ALTER script will not work. To avoid this issue you must either: add a default value to the column, mark it as allowing NULL values, or enable the generation of smart-defaults as a deployment option.
+

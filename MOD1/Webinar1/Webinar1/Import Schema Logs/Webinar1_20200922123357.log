@@ -1,0 +1,85 @@
+22.09.2020 14:33:57	This log contains information about the import schema operation into project 'Webinar1' on computer 'PPL-POZ-NB0452' by user 'tskrzypczak'.
+22.09.2020 14:33:57	Import of database schema has started.
+22.09.2020 14:34:05	Gathering database credentials
+22.09.2020 14:34:05	Gathering database options
+22.09.2020 14:34:05	Gathering generic database scoped configuration option
+22.09.2020 14:34:05	Gathering users
+22.09.2020 14:34:05	Gathering roles
+22.09.2020 14:34:05	Gathering application roles
+22.09.2020 14:34:05	Gathering role memberships
+22.09.2020 14:34:05	Gathering filegroups
+22.09.2020 14:34:05	Gathering full-text catalogs
+22.09.2020 14:34:05	Gathering assemblies
+22.09.2020 14:34:05	Gathering certificates
+22.09.2020 14:34:05	Gathering asymmetric keys
+22.09.2020 14:34:05	Gathering symmetric keys
+22.09.2020 14:34:05	Gathering encrypted symmetric keys
+22.09.2020 14:34:05	Gathering schemas
+22.09.2020 14:34:05	Gathering XML schema collections
+22.09.2020 14:34:05	Gathering user-defined data types
+22.09.2020 14:34:05	Gathering user-defined types
+22.09.2020 14:34:05	Gathering table types
+22.09.2020 14:34:05	Gathering unique keys for table types
+22.09.2020 14:34:05	Gathering primary keys for table types
+22.09.2020 14:34:05	Gathering indexes for table types
+22.09.2020 14:34:05	Gathering check constraints for table types
+22.09.2020 14:34:05	Gathering default constraints for table types
+22.09.2020 14:34:05	Gathering partition functions
+22.09.2020 14:34:05	Gathering partition schemes
+22.09.2020 14:34:05	Gathering functions
+22.09.2020 14:34:05	Gathering encrypted functions
+22.09.2020 14:34:05	Gathering aggregates
+22.09.2020 14:34:05	Gathering procedures
+22.09.2020 14:34:05	Gathering encrypted procedures
+22.09.2020 14:34:05	Gathering tables
+22.09.2020 14:34:06	Gathering primary keys
+22.09.2020 14:34:06	Gathering unique constraints
+22.09.2020 14:34:06	Gathering foreign keys
+22.09.2020 14:34:06	Gathering default constraints
+22.09.2020 14:34:06	Gathering check constraints
+22.09.2020 14:34:06	Gathering views
+22.09.2020 14:34:06	Gathering encrypted views
+22.09.2020 14:34:06	Gathering indexes
+22.09.2020 14:34:06	Gathering statistics
+22.09.2020 14:34:06	Gathering full-text index stoplists
+22.09.2020 14:34:06	Gathering search property lists
+22.09.2020 14:34:06	Gathering search properties
+22.09.2020 14:34:06	Gathering full-text indexes
+22.09.2020 14:34:06	Gathering column store indexes
+22.09.2020 14:34:06	Gathering spatial indexes
+22.09.2020 14:34:06	Gathering XML indexes
+22.09.2020 14:34:06	Gathering Selective XML indexes
+22.09.2020 14:34:06	Gathering encrypted triggers
+22.09.2020 14:34:06	Gathering triggers
+22.09.2020 14:34:06	Gathering encrypted and clr ddl triggers
+22.09.2020 14:34:06	Gathering ddl triggers
+22.09.2020 14:34:06	Gathering synonyms
+22.09.2020 14:34:06	Gathering defaults
+22.09.2020 14:34:06	Gathering data constraint uddt bindings
+22.09.2020 14:34:06	Gathering rules
+22.09.2020 14:34:06	Gathering data constraint uddt bindings
+22.09.2020 14:34:06	Gathering message types
+22.09.2020 14:34:06	Gathering queues
+22.09.2020 14:34:06	Gathering contracts
+22.09.2020 14:34:06	Gathering services
+22.09.2020 14:34:06	Gathering event notifications
+22.09.2020 14:34:06	Gathering remote service bindings
+22.09.2020 14:34:06	Gathering broker priorities
+22.09.2020 14:34:06	Gathering signatures
+22.09.2020 14:34:06	Gathering data compression options
+22.09.2020 14:34:06	Gathering sequence types
+22.09.2020 14:34:06	Gathering security policies
+22.09.2020 14:34:06	Gather column encryption keys
+22.09.2020 14:34:06	Gathering column master keys
+22.09.2020 14:34:06	Gathering external data sources
+22.09.2020 14:34:06	Gathering external file formats
+22.09.2020 14:34:06	Gathering external tables
+22.09.2020 14:34:06	Gathering extended properties
+22.09.2020 14:34:07	Gathering credentials
+22.09.2020 14:34:07	Gathering logins
+22.09.2020 14:34:07	Gathering server audits
+22.09.2020 14:34:08	Scanning project for duplicate elements
+22.09.2020 14:34:08	Finished duplicate element processing
+22.09.2020 14:34:09	Finished importing database.
+22.09.2020 14:34:09	A summary of the import was saved to the following location: C:\_TOSKPL\SSDT\MOD1\Webinar1\Webinar1\Import Schema Logs\Webinar1_20200922123357.log
+22.09.2020 14:34:09	Click Finish to continue...

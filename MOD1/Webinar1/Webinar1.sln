@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1169
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Webinar1", "Webinar1\Webinar1.sqlproj", "{153A11D8-E9B8-47B5-BBF1-8236BDBE7C24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{153A11D8-E9B8-47B5-BBF1-8236BDBE7C24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{153A11D8-E9B8-47B5-BBF1-8236BDBE7C24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{153A11D8-E9B8-47B5-BBF1-8236BDBE7C24}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{153A11D8-E9B8-47B5-BBF1-8236BDBE7C24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{153A11D8-E9B8-47B5-BBF1-8236BDBE7C24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{153A11D8-E9B8-47B5-BBF1-8236BDBE7C24}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A00417A-BFEF-4081-BB82-A555C265066D}
+	EndGlobalSection
+EndGlobal

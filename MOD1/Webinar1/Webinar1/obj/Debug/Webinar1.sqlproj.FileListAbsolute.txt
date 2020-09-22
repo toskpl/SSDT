@@ -1,0 +1,6 @@
+C:\_TOSKPL\SSDT\MOD1\Webinar1\Webinar1\bin\Debug\Webinar1.dacpac
+C:\_TOSKPL\SSDT\MOD1\Webinar1\Webinar1\bin\Debug\Webinar1.dll
+C:\_TOSKPL\SSDT\MOD1\Webinar1\Webinar1\bin\Debug\Webinar1.pdb
+C:\_TOSKPL\SSDT\MOD1\Webinar1\Webinar1\obj\Debug\Webinar1.sqlprojAssemblyReference.cache
+C:\_TOSKPL\SSDT\MOD1\Webinar1\Webinar1\obj\Debug\Webinar1.dll
+C:\_TOSKPL\SSDT\MOD1\Webinar1\Webinar1\obj\Debug\Webinar1.pdb
