@@ -10,7 +10,7 @@ Use:
 
 1. Import database WideWorldImporters in Managment Studio. [**link**](https://github.com/toskpl/SSDT/blob/master/screen/1_ImportDatabase.png)
 
-2. Create new project in Visual Studio 2017 (SQL Server Database Project).[**link**]()
+2. Create new project in Visual Studio 2017 (SQL Server Database Project).[**link**](https://github.com/toskpl/SSDT/blob/master/screen/2_0_createNewProjet.png)
 
 3. Import database to Visual Studio 2017.[**link**]()
 
