@@ -8,7 +8,7 @@ Use:
 - Database: **[WideWorldImporters-Full](https://github.com/Microsoft/sql-server-samples/releases/download/wide-world-importers-v1.0/WideWorldImporters-Full.bak)**
 
 
-1. Import database WideWorldImporters in Managment Studio. [**link**]()
+1. Import database WideWorldImporters in Managment Studio. [**link**](https://github.com/toskpl/SSDT/blob/master/screen/1_ImportDatabase.png)
 
 2. Create new project in Visual Studio 2017 (SQL Server Database Project).[**link**]()
 
